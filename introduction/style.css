@@ -1,0 +1,41 @@
+p {
+  background-color: lightpink;
+  font-size: 16px;
+  border: 3px dashed plum;
+  padding: 20px;
+}
+
+a {
+  color: saddlebrown;
+  cursor: cell;
+  text-decoration:line-through;
+}
+
+a:hover {
+  color: green;
+  text-decoration: overline;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.special {
+  color: purple;
+  background-color: lightgreen;
+  font-size: 60px;
+}
+
+.good {
+  border: 3px dashed lightpink;
+}
+
+strong:hover {
+  color: green;
+  font-family:fantasy;
+}
+
+b:hover{
+  color:saddlebrown;
+  font-family:monospace;
+}
